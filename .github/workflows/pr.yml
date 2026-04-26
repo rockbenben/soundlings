@@ -1,0 +1,41 @@
+name: PR
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: npm ci
+
+      - name: License audit
+        run: npm run audio:audit
+
+      - name: CREDITS.md is up-to-date
+        run: |
+          npm run audio:credits
+          if ! git diff --quiet -- CREDITS.md; then
+            echo "::error::CREDITS.md is out of date. Run 'npm run audio:credits' and commit the result."
+            git --no-pager diff -- CREDITS.md
+            exit 1
+          fi
+
+      - run: npm run typecheck
+      - run: npm run build
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist

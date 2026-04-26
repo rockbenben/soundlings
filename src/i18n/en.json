@@ -1,0 +1,63 @@
+{
+  "tab.vehicles": "Vehicles",
+  "tab.animals": "Animals",
+  "tab.ambience": "Ambience",
+  "tab.household": "Household",
+  "tab.instruments": "Instruments",
+  "tab.nature": "Nature",
+
+  "nav.home": "Home",
+  "nav.search": "Search",
+  "nav.random": "Random",
+  "nav.bedtime": "Bedtime",
+  "nav.mystery": "Mystery",
+  "nav.settings": "Settings",
+
+  "label.search": "Search sounds",
+  "label.loop": "Loop",
+  "label.stop": "Stop",
+  "label.now_playing": "Now playing",
+  "label.sleep_timer": "Sleep timer",
+  "label.lang_switch": "Switch to 中文",
+
+  "sleep.off": "Off",
+  "sleep.5min": "5 min",
+  "sleep.15min": "15 min",
+  "sleep.30min": "30 min",
+  "sleep.60min": "60 min",
+
+  "home.count_one": "{n} sound",
+  "home.count_many": "{n} sounds",
+  "home.empty": "No sounds in this category yet",
+
+  "search.hint": "Try “cat”, “rain”, or “piano”",
+  "search.no_match": "No sounds match \"{q}\"",
+  "search.count_one": "{n} match",
+  "search.count_many": "{n} matches",
+
+  "random.subtitle": "Press play and let a surprise sound find you",
+  "random.idle": "Waiting to start…",
+
+  "settings.theme": "Theme",
+  "settings.theme.light": "Light",
+  "settings.theme.dark": "Dark",
+  "settings.theme.auto": "Auto",
+  "settings.theme.hint": "Pick a palette, or let it follow your system",
+  "settings.language": "Language",
+  "settings.language.hint": "Use the 🌐 button in the top bar to switch language",
+  "settings.about_subtitle": "Soundlings · open source · MIT",
+
+  "mystery.play": "Play sound",
+  "mystery.next": "Next",
+  "mystery.correct": "Correct!",
+  "mystery.wrong": "Try again — correct answer:",
+  "mystery.score": "Score {n} of {total}",
+
+  "bedtime.title": "Bedtime",
+  "bedtime.hint": "Tap a sound to loop until the timer ends",
+
+  "about.title": "About",
+  "about.privacy": "Privacy",
+  "about.license": "Open-source license",
+  "about.credits": "Audio credits"
+}

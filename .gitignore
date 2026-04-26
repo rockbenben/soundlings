@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local dev servers / caches
+.cache/
+
+# Node (if anyone runs npx serve)
+node_modules/
+
+# Logs / temp
+*.log
+.tmp/
+
+# Vite build output
+dist/
+.vite/
+*.tsbuildinfo
+
+# Python (audio scripts)
+*.pyc
+__pycache__/

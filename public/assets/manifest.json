@@ -1,0 +1,1257 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "preset.vehicles.police_car",
+      "category": "vehicles",
+      "iconKey": "police_car",
+      "labels": {
+        "zh": "警车",
+        "en": "Police Car"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/police_car.mp3",
+          "loopable": false,
+          "license": "freesound_police_car"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.ambulance",
+      "category": "vehicles",
+      "iconKey": "ambulance",
+      "labels": {
+        "zh": "救护车",
+        "en": "Ambulance"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/ambulance.mp3",
+          "loopable": false,
+          "license": "freesound_ambulance"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.fire_truck",
+      "category": "vehicles",
+      "iconKey": "fire_truck",
+      "labels": {
+        "zh": "消防车",
+        "en": "Fire Truck"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/fire_truck.mp3",
+          "loopable": false,
+          "license": "freesound_fire_truck"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.car",
+      "category": "vehicles",
+      "iconKey": "car",
+      "labels": {
+        "zh": "汽车",
+        "en": "Car"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/car.mp3",
+          "loopable": false,
+          "license": "freesound_car"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.bus",
+      "category": "vehicles",
+      "iconKey": "bus",
+      "labels": {
+        "zh": "公交",
+        "en": "Bus"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/bus.mp3",
+          "loopable": false,
+          "license": "freesound_bus"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.truck",
+      "category": "vehicles",
+      "iconKey": "truck",
+      "labels": {
+        "zh": "卡车",
+        "en": "Truck"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/truck.mp3",
+          "loopable": false,
+          "license": "freesound_truck"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.airplane",
+      "category": "vehicles",
+      "iconKey": "airplane",
+      "labels": {
+        "zh": "飞机",
+        "en": "Airplane"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/airplane.mp3",
+          "loopable": false,
+          "license": "freesound_airplane"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.train",
+      "category": "vehicles",
+      "iconKey": "train",
+      "labels": {
+        "zh": "火车",
+        "en": "Train"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/train.mp3",
+          "loopable": false,
+          "license": "freesound_train"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.subway",
+      "category": "vehicles",
+      "iconKey": "subway",
+      "labels": {
+        "zh": "地铁",
+        "en": "Subway"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/subway.mp3",
+          "loopable": false,
+          "license": "freesound_subway"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.motorcycle",
+      "category": "vehicles",
+      "iconKey": "motorcycle",
+      "labels": {
+        "zh": "摩托车",
+        "en": "Motorcycle"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/motorcycle.mp3",
+          "loopable": false,
+          "license": "freesound_motorcycle"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.bicycle",
+      "category": "vehicles",
+      "iconKey": "bicycle",
+      "labels": {
+        "zh": "自行车",
+        "en": "Bicycle"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/bicycle.mp3",
+          "loopable": false,
+          "license": "freesound_bicycle"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.boat",
+      "category": "vehicles",
+      "iconKey": "boat",
+      "labels": {
+        "zh": "船",
+        "en": "Boat"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/boat.mp3",
+          "loopable": false,
+          "license": "freesound_boat"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.helicopter",
+      "category": "vehicles",
+      "iconKey": "helicopter",
+      "labels": {
+        "zh": "直升机",
+        "en": "Helicopter"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/helicopter.mp3",
+          "loopable": false,
+          "license": "freesound_helicopter"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.excavator",
+      "category": "vehicles",
+      "iconKey": "excavator",
+      "labels": {
+        "zh": "挖掘机",
+        "en": "Excavator"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/excavator.mp3",
+          "loopable": false,
+          "license": "freesound_excavator"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.garbage_truck",
+      "category": "vehicles",
+      "iconKey": "garbage_truck",
+      "labels": {
+        "zh": "垃圾车",
+        "en": "Garbage Truck"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/garbage_truck.mp3",
+          "loopable": false,
+          "license": "freesound_garbage_truck"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.submarine",
+      "category": "vehicles",
+      "iconKey": "submarine",
+      "labels": {
+        "zh": "潜艇",
+        "en": "Submarine"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/submarine.mp3",
+          "loopable": false,
+          "license": "freesound_submarine"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.hot_air_balloon",
+      "category": "vehicles",
+      "iconKey": "hot_air_balloon",
+      "labels": {
+        "zh": "热气球",
+        "en": "Hot Air Balloon"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/hot_air_balloon.mp3",
+          "loopable": false,
+          "license": "freesound_hot_air_balloon"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.race_car",
+      "category": "vehicles",
+      "iconKey": "race_car",
+      "labels": {
+        "zh": "赛车",
+        "en": "Race Car"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/race_car.mp3",
+          "loopable": false,
+          "license": "freesound_race_car"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.tractor",
+      "category": "vehicles",
+      "iconKey": "tractor",
+      "labels": {
+        "zh": "拖拉机",
+        "en": "Tractor"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/tractor.mp3",
+          "loopable": false,
+          "license": "freesound_tractor"
+        }
+      ]
+    },
+    {
+      "id": "preset.vehicles.school_bus",
+      "category": "vehicles",
+      "iconKey": "school_bus",
+      "labels": {
+        "zh": "校车",
+        "en": "School Bus"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/vehicles/school_bus.mp3",
+          "loopable": false,
+          "license": "freesound_school_bus"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.wind",
+      "category": "nature",
+      "iconKey": "wind",
+      "labels": {
+        "zh": "风",
+        "en": "Wind"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/wind.mp3",
+          "loopable": true,
+          "license": "freesound_wind",
+          "labelSuffix": "阵风"
+        },
+        {
+          "asset": "assets/audio/nature/wind_howl.mp3",
+          "loopable": true,
+          "license": "freesound_wind_howl",
+          "labelSuffix": "呼啸"
+        },
+        {
+          "asset": "assets/audio/nature/wind_gust.mp3",
+          "loopable": true,
+          "license": "freesound_wind_gust",
+          "labelSuffix": "微风"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.rain",
+      "category": "nature",
+      "iconKey": "rain",
+      "labels": {
+        "zh": "雨",
+        "en": "Rain"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/rain.mp3",
+          "loopable": true,
+          "license": "freesound_rain",
+          "labelSuffix": "中雨"
+        },
+        {
+          "asset": "assets/audio/nature/rain_heavy.mp3",
+          "loopable": true,
+          "license": "freesound_rain_heavy",
+          "labelSuffix": "大雨"
+        },
+        {
+          "asset": "assets/audio/nature/rain_light.mp3",
+          "loopable": true,
+          "license": "freesound_rain_light",
+          "labelSuffix": "小雨"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.thunder",
+      "category": "nature",
+      "iconKey": "thunder",
+      "labels": {
+        "zh": "雷",
+        "en": "Thunder"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/thunder.mp3",
+          "loopable": false,
+          "license": "freesound_thunder"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.ocean",
+      "category": "nature",
+      "iconKey": "ocean",
+      "labels": {
+        "zh": "海浪",
+        "en": "Ocean"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/ocean.mp3",
+          "loopable": true,
+          "license": "freesound_ocean"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.stream",
+      "category": "nature",
+      "iconKey": "stream",
+      "labels": {
+        "zh": "溪流",
+        "en": "Stream"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/stream.mp3",
+          "loopable": true,
+          "license": "freesound_stream"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.birds",
+      "category": "nature",
+      "iconKey": "birds",
+      "labels": {
+        "zh": "鸟鸣",
+        "en": "Birds"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/birds_chirp.mp3",
+          "loopable": false,
+          "license": "freesound_birds_chirp",
+          "labelSuffix": "啾啾"
+        },
+        {
+          "asset": "assets/audio/nature/birds_song.mp3",
+          "loopable": false,
+          "license": "freesound_birds_song",
+          "labelSuffix": "鸟歌"
+        },
+        {
+          "asset": "assets/audio/nature/birds.mp3",
+          "loopable": false,
+          "license": "freesound_birds",
+          "labelSuffix": "群鸟"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.insects",
+      "category": "nature",
+      "iconKey": "insects",
+      "labels": {
+        "zh": "虫鸣",
+        "en": "Insects"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/insects.mp3",
+          "loopable": true,
+          "license": "freesound_insects"
+        }
+      ]
+    },
+    {
+      "id": "preset.nature.campfire",
+      "category": "nature",
+      "iconKey": "campfire",
+      "labels": {
+        "zh": "篝火",
+        "en": "Campfire"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/nature/campfire.mp3",
+          "loopable": true,
+          "license": "freesound_campfire"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.dog",
+      "category": "animals",
+      "iconKey": "dog",
+      "labels": {
+        "zh": "狗",
+        "en": "Dog"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/dog_small.mp3",
+          "loopable": false,
+          "license": "freesound_dog_small",
+          "labelSuffix": "小狗"
+        },
+        {
+          "asset": "assets/audio/animals/dog_big.mp3",
+          "loopable": false,
+          "license": "freesound_dog_big",
+          "labelSuffix": "大狗"
+        },
+        {
+          "asset": "assets/audio/animals/dog_whine.mp3",
+          "loopable": true,
+          "license": "freesound_dog_whine",
+          "labelSuffix": "哀嚎"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.cat",
+      "category": "animals",
+      "iconKey": "cat",
+      "labels": {
+        "zh": "猫",
+        "en": "Cat"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/cat.mp3",
+          "loopable": false,
+          "license": "freesound_cat",
+          "labelSuffix": "喵"
+        },
+        {
+          "asset": "assets/audio/animals/cat_meow.mp3",
+          "loopable": false,
+          "license": "freesound_cat_meow",
+          "labelSuffix": "短喵"
+        },
+        {
+          "asset": "assets/audio/animals/cat_purr.mp3",
+          "loopable": true,
+          "license": "freesound_cat_purr",
+          "labelSuffix": "呼噜"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.cow",
+      "category": "animals",
+      "iconKey": "cow",
+      "labels": {
+        "zh": "牛",
+        "en": "Cow"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/cow.mp3",
+          "loopable": false,
+          "license": "freesound_cow"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.sheep",
+      "category": "animals",
+      "iconKey": "sheep",
+      "labels": {
+        "zh": "羊",
+        "en": "Sheep"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/sheep.mp3",
+          "loopable": false,
+          "license": "freesound_sheep"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.chicken",
+      "category": "animals",
+      "iconKey": "chicken",
+      "labels": {
+        "zh": "鸡",
+        "en": "Chicken"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/chicken.mp3",
+          "loopable": false,
+          "license": "freesound_chicken"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.duck",
+      "category": "animals",
+      "iconKey": "duck",
+      "labels": {
+        "zh": "鸭",
+        "en": "Duck"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/duck.mp3",
+          "loopable": false,
+          "license": "freesound_duck"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.pig",
+      "category": "animals",
+      "iconKey": "pig",
+      "labels": {
+        "zh": "猪",
+        "en": "Pig"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/pig.mp3",
+          "loopable": false,
+          "license": "freesound_pig"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.horse",
+      "category": "animals",
+      "iconKey": "horse",
+      "labels": {
+        "zh": "马",
+        "en": "Horse"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/horse_neigh.mp3",
+          "loopable": false,
+          "license": "freesound_horse_neigh",
+          "labelSuffix": "嘶鸣"
+        },
+        {
+          "asset": "assets/audio/animals/horse.mp3",
+          "loopable": false,
+          "license": "freesound_horse",
+          "labelSuffix": "低嘶"
+        },
+        {
+          "asset": "assets/audio/animals/horse_gallop.mp3",
+          "loopable": false,
+          "license": "freesound_horse_gallop",
+          "labelSuffix": "奔驰"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.lion",
+      "category": "animals",
+      "iconKey": "lion",
+      "labels": {
+        "zh": "狮子",
+        "en": "Lion"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/lion.mp3",
+          "loopable": false,
+          "license": "freesound_lion"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.tiger",
+      "category": "animals",
+      "iconKey": "tiger",
+      "labels": {
+        "zh": "老虎",
+        "en": "Tiger"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/tiger.mp3",
+          "loopable": false,
+          "license": "freesound_tiger"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.elephant",
+      "category": "animals",
+      "iconKey": "elephant",
+      "labels": {
+        "zh": "大象",
+        "en": "Elephant"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/elephant.mp3",
+          "loopable": false,
+          "license": "freesound_elephant"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.monkey",
+      "category": "animals",
+      "iconKey": "monkey",
+      "labels": {
+        "zh": "猴子",
+        "en": "Monkey"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/monkey.mp3",
+          "loopable": false,
+          "license": "freesound_monkey"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.bear",
+      "category": "animals",
+      "iconKey": "bear",
+      "labels": {
+        "zh": "熊",
+        "en": "Bear"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/bear.mp3",
+          "loopable": false,
+          "license": "freesound_bear"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.whale",
+      "category": "animals",
+      "iconKey": "whale",
+      "labels": {
+        "zh": "鲸鱼",
+        "en": "Whale"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/whale.mp3",
+          "loopable": true,
+          "license": "freesound_whale"
+        }
+      ]
+    },
+    {
+      "id": "preset.animals.frog",
+      "category": "animals",
+      "iconKey": "frog",
+      "labels": {
+        "zh": "青蛙",
+        "en": "Frog"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/animals/frog.mp3",
+          "loopable": false,
+          "license": "freesound_frog"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.piano",
+      "category": "instruments",
+      "iconKey": "piano",
+      "labels": {
+        "zh": "钢琴",
+        "en": "Piano"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/piano.mp3",
+          "loopable": false,
+          "license": "freesound_piano",
+          "labelSuffix": "C4"
+        },
+        {
+          "asset": "assets/audio/instruments/piano_g4.mp3",
+          "loopable": false,
+          "license": "freesound_piano_g4",
+          "labelSuffix": "G4"
+        },
+        {
+          "asset": "assets/audio/instruments/piano_a4.mp3",
+          "loopable": false,
+          "license": "freesound_piano_a4",
+          "labelSuffix": "A4"
+        },
+        {
+          "asset": "assets/audio/instruments/piano_c5.mp3",
+          "loopable": false,
+          "license": "freesound_piano_c5",
+          "labelSuffix": "C5"
+        },
+        {
+          "asset": "assets/audio/instruments/piano_e5.mp3",
+          "loopable": false,
+          "license": "freesound_piano_e5",
+          "labelSuffix": "E5"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.drum",
+      "category": "instruments",
+      "iconKey": "drum",
+      "labels": {
+        "zh": "鼓",
+        "en": "Drum"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/drum_kick.mp3",
+          "loopable": false,
+          "license": "freesound_drum_kick",
+          "labelSuffix": "底鼓"
+        },
+        {
+          "asset": "assets/audio/instruments/drum_snare.mp3",
+          "loopable": false,
+          "license": "freesound_drum_snare",
+          "labelSuffix": "军鼓"
+        },
+        {
+          "asset": "assets/audio/instruments/drum.mp3",
+          "loopable": false,
+          "license": "freesound_drum",
+          "labelSuffix": "高鼓"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.guitar",
+      "category": "instruments",
+      "iconKey": "guitar",
+      "labels": {
+        "zh": "吉他",
+        "en": "Guitar"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/guitar.mp3",
+          "loopable": false,
+          "license": "freesound_guitar"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.xylophone",
+      "category": "instruments",
+      "iconKey": "xylophone",
+      "labels": {
+        "zh": "木琴",
+        "en": "Xylophone"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/xylophone.mp3",
+          "loopable": false,
+          "license": "freesound_xylophone"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.triangle",
+      "category": "instruments",
+      "iconKey": "triangle",
+      "labels": {
+        "zh": "三角铁",
+        "en": "Triangle"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/triangle.mp3",
+          "loopable": false,
+          "license": "freesound_triangle"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.tambourine",
+      "category": "instruments",
+      "iconKey": "tambourine",
+      "labels": {
+        "zh": "铃鼓",
+        "en": "Tambourine"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/tambourine.mp3",
+          "loopable": false,
+          "license": "freesound_tambourine"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.harmonica",
+      "category": "instruments",
+      "iconKey": "harmonica",
+      "labels": {
+        "zh": "口琴",
+        "en": "Harmonica"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/harmonica.mp3",
+          "loopable": false,
+          "license": "freesound_harmonica"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.trumpet",
+      "category": "instruments",
+      "iconKey": "trumpet",
+      "labels": {
+        "zh": "小号",
+        "en": "Trumpet"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/trumpet.mp3",
+          "loopable": false,
+          "license": "freesound_trumpet"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.violin",
+      "category": "instruments",
+      "iconKey": "violin",
+      "labels": {
+        "zh": "小提琴",
+        "en": "Violin"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/violin.mp3",
+          "loopable": false,
+          "license": "freesound_violin"
+        }
+      ]
+    },
+    {
+      "id": "preset.instruments.shaker",
+      "category": "instruments",
+      "iconKey": "shaker",
+      "labels": {
+        "zh": "沙锤",
+        "en": "Shaker"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/instruments/shaker.mp3",
+          "loopable": false,
+          "license": "freesound_shaker"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.doorbell",
+      "category": "household",
+      "iconKey": "doorbell",
+      "labels": {
+        "zh": "门铃",
+        "en": "Doorbell"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/doorbell.mp3",
+          "loopable": false,
+          "license": "freesound_doorbell"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.phone",
+      "category": "household",
+      "iconKey": "phone",
+      "labels": {
+        "zh": "电话",
+        "en": "Phone"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/phone.mp3",
+          "loopable": false,
+          "license": "freesound_phone"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.microwave",
+      "category": "household",
+      "iconKey": "microwave",
+      "labels": {
+        "zh": "微波炉",
+        "en": "Microwave"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/microwave.mp3",
+          "loopable": false,
+          "license": "freesound_microwave"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.hair_dryer",
+      "category": "household",
+      "iconKey": "hair_dryer",
+      "labels": {
+        "zh": "吹风机",
+        "en": "Hair Dryer"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/hair_dryer.mp3",
+          "loopable": true,
+          "license": "freesound_hair_dryer"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.alarm_clock",
+      "category": "household",
+      "iconKey": "alarm_clock",
+      "labels": {
+        "zh": "闹钟",
+        "en": "Alarm Clock"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/alarm_clock.mp3",
+          "loopable": false,
+          "license": "freesound_alarm_clock"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.vacuum",
+      "category": "household",
+      "iconKey": "vacuum",
+      "labels": {
+        "zh": "吸尘器",
+        "en": "Vacuum"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/vacuum.mp3",
+          "loopable": true,
+          "license": "freesound_vacuum"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.washing_machine",
+      "category": "household",
+      "iconKey": "washing_machine",
+      "labels": {
+        "zh": "洗衣机",
+        "en": "Washing Machine"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/washing_machine.mp3",
+          "loopable": true,
+          "license": "freesound_washing_machine"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.kettle",
+      "category": "household",
+      "iconKey": "kettle",
+      "labels": {
+        "zh": "电水壶",
+        "en": "Kettle"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/kettle.mp3",
+          "loopable": false,
+          "license": "freesound_kettle"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.knock",
+      "category": "household",
+      "iconKey": "knock",
+      "labels": {
+        "zh": "敲门",
+        "en": "Knock"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/knock.mp3",
+          "loopable": false,
+          "license": "freesound_knock"
+        }
+      ]
+    },
+    {
+      "id": "preset.household.typing",
+      "category": "household",
+      "iconKey": "typing",
+      "labels": {
+        "zh": "键盘",
+        "en": "Typing"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/household/typing.mp3",
+          "loopable": false,
+          "license": "freesound_typing"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.cafe",
+      "category": "ambience",
+      "iconKey": "cafe",
+      "labels": {
+        "zh": "咖啡馆",
+        "en": "Cafe"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/cafe.mp3",
+          "loopable": true,
+          "license": "freesound_cafe"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.classroom",
+      "category": "ambience",
+      "iconKey": "classroom",
+      "labels": {
+        "zh": "教室",
+        "en": "Classroom"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/classroom.mp3",
+          "loopable": true,
+          "license": "freesound_classroom"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.playground",
+      "category": "ambience",
+      "iconKey": "playground",
+      "labels": {
+        "zh": "操场",
+        "en": "Playground"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/playground.mp3",
+          "loopable": true,
+          "license": "freesound_playground"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.kitchen",
+      "category": "ambience",
+      "iconKey": "kitchen",
+      "labels": {
+        "zh": "厨房",
+        "en": "Kitchen"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/kitchen.mp3",
+          "loopable": true,
+          "license": "freesound_kitchen"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.rainy_night",
+      "category": "ambience",
+      "iconKey": "rainy_night",
+      "labels": {
+        "zh": "雨夜",
+        "en": "Rainy Night"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/rainy_night.mp3",
+          "loopable": true,
+          "license": "cc_by_rainy_night"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.market",
+      "category": "ambience",
+      "iconKey": "market",
+      "labels": {
+        "zh": "市场",
+        "en": "Market"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/market.mp3",
+          "loopable": true,
+          "license": "freesound_market"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.library",
+      "category": "ambience",
+      "iconKey": "library",
+      "labels": {
+        "zh": "图书馆",
+        "en": "Library"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/library.mp3",
+          "loopable": true,
+          "license": "freesound_library"
+        }
+      ]
+    },
+    {
+      "id": "preset.ambience.subway_car",
+      "category": "ambience",
+      "iconKey": "subway_car",
+      "labels": {
+        "zh": "地铁车厢",
+        "en": "Subway Car"
+      },
+      "variants": [
+        {
+          "asset": "assets/audio/ambience/subway_car.mp3",
+          "loopable": true,
+          "license": "freesound_subway_car"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "tab.vehicles": "车辆",
+  "tab.animals": "动物",
+  "tab.ambience": "环境",
+  "tab.household": "家居",
+  "tab.instruments": "乐器",
+  "tab.nature": "自然",
+
+  "nav.home": "首页",
+  "nav.search": "搜索",
+  "nav.random": "随机",
+  "nav.bedtime": "睡前",
+  "nav.mystery": "猜声音",
+  "nav.settings": "设置",
+
+  "label.search": "搜索声音",
+  "label.loop": "循环",
+  "label.stop": "停止",
+  "label.now_playing": "正在播放",
+  "label.sleep_timer": "睡眠定时",
+  "label.lang_switch": "Switch to English",
+
+  "sleep.off": "关闭",
+  "sleep.5min": "5 分钟",
+  "sleep.15min": "15 分钟",
+  "sleep.30min": "30 分钟",
+  "sleep.60min": "60 分钟",
+
+  "home.count_one": "共 {n} 个声音",
+  "home.count_many": "共 {n} 个声音",
+  "home.empty": "这个分类暂时还没有声音",
+
+  "search.hint": "试试搜「猫」「雨」「钢琴」",
+  "search.no_match": "没有找到「{q}」",
+  "search.count_one": "找到 {n} 个",
+  "search.count_many": "找到 {n} 个",
+
+  "random.subtitle": "按下播放，随机抽一个声音陪你玩",
+  "random.idle": "等待开始…",
+
+  "settings.theme": "主题",
+  "settings.theme.light": "亮色",
+  "settings.theme.dark": "暗色",
+  "settings.theme.auto": "跟随系统",
+  "settings.theme.hint": "选择喜欢的配色，或跟随系统设置自动切换",
+  "settings.language": "语言",
+  "settings.language.hint": "点击右上角 🌐 按钮切换界面语言",
+  "settings.about_subtitle": "Soundlings · 开源 · MIT",
+
+  "mystery.play": "播放声音",
+  "mystery.next": "下一题",
+  "mystery.correct": "答对啦！",
+  "mystery.wrong": "再来一次 — 正确答案：",
+  "mystery.score": "得分 {n} / {total}",
+
+  "bedtime.title": "睡前模式",
+  "bedtime.hint": "点击一个声音循环到定时结束",
+
+  "about.title": "关于",
+  "about.privacy": "隐私",
+  "about.license": "开源许可",
+  "about.credits": "音频归属"
+}
