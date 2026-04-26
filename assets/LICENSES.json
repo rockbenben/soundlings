@@ -1,0 +1,539 @@
+{
+  "version": 1,
+  "licenses": {
+    "freesound_dog_small": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Barking Dog by NachtmahrTV",
+      "source_url": "https://freesound.org/s/553188/"
+    },
+    "freesound_dog_whine": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Shih Tzu whining & shrieking by randbsoundbites",
+      "source_url": "https://freesound.org/s/798651/"
+    },
+    "freesound_cow": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "ANMLFarm_Kuh-Bulle-Agressiv 19_IOKA_NONE_Hofefeld.wav by JakobGille",
+      "source_url": "https://freesound.org/s/610801/"
+    },
+    "freesound_sheep": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Sheep baaing 2 - Norwegian sheep expressing itself concisely to her lamb by michaelperfect",
+      "source_url": "https://freesound.org/s/710297/"
+    },
+    "freesound_chicken": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Chicken by D4XX",
+      "source_url": "https://freesound.org/s/607245/"
+    },
+    "freesound_duck": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Goose And Duck.aiff by ChunaawChika09",
+      "source_url": "https://freesound.org/s/581151/"
+    },
+    "freesound_pig": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Pig - Grunt and Squeal 4 - 96kHz.wav by JarredGibb",
+      "source_url": "https://freesound.org/s/233177/"
+    },
+    "freesound_horse": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Renill de cavall / Horse Neigh by Salsero_classic",
+      "source_url": "https://freesound.org/s/826753/"
+    },
+    "freesound_horse_neigh": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "horse by dontwanttobehere",
+      "source_url": "https://freesound.org/s/656661/"
+    },
+    "freesound_horse_gallop": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Horse Galloping.wav by Max_Headroom",
+      "source_url": "https://freesound.org/s/175356/"
+    },
+    "freesound_lion": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "S01-09_Short lion roars.wav by craigsmith",
+      "source_url": "https://freesound.org/s/675443/"
+    },
+    "freesound_rain_light": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Storm Drain.wav by RoofDog",
+      "source_url": "https://freesound.org/s/79873/"
+    },
+    "freesound_wind_gust": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "wind 6 by ZIP.Creates",
+      "source_url": "https://freesound.org/s/726317/"
+    },
+    "freesound_ocean": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Retro Ocean Noise by IndyArts",
+      "source_url": "https://freesound.org/s/756350/"
+    },
+    "freesound_stream": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Hook and Release.wav by paulprit",
+      "source_url": "https://freesound.org/s/591348/"
+    },
+    "freesound_birds": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Bird Noise - 11.wav by SpaceJoe",
+      "source_url": "https://freesound.org/s/507255/"
+    },
+    "freesound_birds_chirp": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Chim Sâu 3 by SieuAmThanh",
+      "source_url": "https://freesound.org/s/506057/"
+    },
+    "freesound_birds_song": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Bird Noise - 11.wav by SpaceJoe",
+      "source_url": "https://freesound.org/s/507255/"
+    },
+    "freesound_campfire": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Fire Crackling by LilMati",
+      "source_url": "https://freesound.org/s/714566/"
+    },
+    "freesound_fire_truck": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Parisian fire truck siren by Mxsmanic",
+      "source_url": "https://freesound.org/s/139324/"
+    },
+    "freesound_truck": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "engine_idle_loop.wav by ReadeOnly",
+      "source_url": "https://freesound.org/s/186935/"
+    },
+    "freesound_train": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Prague Metro 81-717 two-chime horn by chungus43A",
+      "source_url": "https://freesound.org/s/783764/"
+    },
+    "freesound_subway": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Subway Station Chime by plasterbrain",
+      "source_url": "https://freesound.org/s/419491/"
+    },
+    "freesound_bicycle": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Bicycle Bell.wav by PanosA",
+      "source_url": "https://freesound.org/s/546371/"
+    },
+    "freesound_boat": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Fog Horn (Bassoon).mp3 by eeriedescence",
+      "source_url": "https://freesound.org/s/419739/"
+    },
+    "freesound_submarine": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Submarine sonar ping by therealdeevee",
+      "source_url": "https://freesound.org/s/653896/"
+    },
+    "freesound_tractor": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "tractor engine on by lauderson",
+      "source_url": "https://freesound.org/s/707745/"
+    },
+    "freesound_school_bus": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "school bus truck int horn honk.flac by kyles",
+      "source_url": "https://freesound.org/s/451697/"
+    },
+    "freesound_guitar": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Acoustic Japan Guitar FG-151. G. by Black_River_Phonogram",
+      "source_url": "https://freesound.org/s/420954/"
+    },
+    "freesound_xylophone": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Xylophone - F#3 (Xylo_Medium_G3_ff_01_far.wav) by sgossner",
+      "source_url": "https://freesound.org/s/374703/"
+    },
+    "freesound_triangle": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "chime.wav by hypocore",
+      "source_url": "https://freesound.org/s/164088/"
+    },
+    "freesound_tambourine": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Tambourine (tambourine_shake.wav) by sgossner",
+      "source_url": "https://freesound.org/s/375722/"
+    },
+    "freesound_harmonica": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "harmonica.wav by swapnil_gt",
+      "source_url": "https://freesound.org/s/251300/"
+    },
+    "freesound_trumpet": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "C1-1.wav by Vlad99",
+      "source_url": "https://freesound.org/s/212980/"
+    },
+    "freesound_violin": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "v02_N.WAV by Department64",
+      "source_url": "https://freesound.org/s/65385/"
+    },
+    "freesound_shaker": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Shk3.wav by menegass",
+      "source_url": "https://freesound.org/s/99843/"
+    },
+    "freesound_phone": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Telephone Ring (old German W48) by meisterleise",
+      "source_url": "https://freesound.org/s/332073/"
+    },
+    "freesound_hair_dryer": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "H6_hair-dryer.mp3 by Iamgiorgio",
+      "source_url": "https://freesound.org/s/371815/"
+    },
+    "freesound_vacuum": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Vacuum Chord Being Pulled Out 04 - Fast by swiftoid",
+      "source_url": "https://freesound.org/s/184310/"
+    },
+    "freesound_knock": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Knock On Door 1_1 by Joao_Janz",
+      "source_url": "https://freesound.org/s/485160/"
+    },
+    "freesound_cafe": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "ambience, cafe, burger king, city, Moscow by AlexanderChe",
+      "source_url": "https://freesound.org/s/363712/"
+    },
+    "freesound_playground": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "R29-45-Group of Children Playing.wav by craigsmith",
+      "source_url": "https://freesound.org/s/479845/"
+    },
+    "freesound_insects": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cricket chirping (normal) by _sinny_",
+      "source_url": "https://freesound.org/s/822933/"
+    },
+    "freesound_piano": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Upright Piano Remeau up close XY - C4 by Sadiquecat",
+      "source_url": "https://freesound.org/s/794435/"
+    },
+    "freesound_piano_g4": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Yamaha CS-30L - Toy Piano - G4 (Small Plick-68-127.aif) by modularsamples",
+      "source_url": "https://freesound.org/s/314961/"
+    },
+    "freesound_piano_a4": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Yamaha CS-30L - Toy Piano - A4 (Small Plick-69-127.aif) by modularsamples",
+      "source_url": "https://freesound.org/s/314962/"
+    },
+    "freesound_piano_c5": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Upright Piano Remeau 23 C8 by Sadiquecat",
+      "source_url": "https://freesound.org/s/794382/"
+    },
+    "freesound_piano_e5": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Upright Piano Remeau 23 C8 by Sadiquecat",
+      "source_url": "https://freesound.org/s/794382/"
+    },
+    "freesound_drum": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Junk Drum Kit: Hat Closed (Single Hit) by deleted_user_5205523",
+      "source_url": "https://freesound.org/s/340469/"
+    },
+    "freesound_drum_kick": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "super low bass hit kick drum wAv by phluidbox",
+      "source_url": "https://freesound.org/s/339437/"
+    },
+    "freesound_drum_snare": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Smack Snare Drum by TheEndOfACycle",
+      "source_url": "https://freesound.org/s/673495/"
+    },
+    "freesound_microwave": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Kitchen microwave buttons being pressed (2 buttons) by ani_music",
+      "source_url": "https://freesound.org/s/632463/"
+    },
+    "freesound_typing": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Keyboard Typing Tapping.wav by Psykophobia",
+      "source_url": "https://freesound.org/s/250390/"
+    },
+    "freesound_library": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Quiet Page Turn - 7 by SpaceJoe",
+      "source_url": "https://freesound.org/s/484967/"
+    },
+    "freesound_bus": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Motor Sample.wav by soundjoao",
+      "source_url": "https://freesound.org/s/325807/"
+    },
+    "freesound_helicopter": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Helicopter Rotor Loop.flac by qubodup",
+      "source_url": "https://freesound.org/s/187681/"
+    },
+    "freesound_hot_air_balloon": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Sean_Flynn_002_propane.wav by seanflynn1",
+      "source_url": "https://freesound.org/s/619951/"
+    },
+    "freesound_washing_machine": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Washing Machine.m4a by chris.t",
+      "source_url": "https://freesound.org/s/452889/"
+    },
+    "freesound_kettle": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Henry-Kettle.wav by PerMagnusLindborg",
+      "source_url": "https://freesound.org/s/231363/"
+    },
+    "freesound_kitchen": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Beginner chopping vegetables on a cutting board by megahope",
+      "source_url": "https://freesound.org/s/829282/"
+    },
+    "freesound_classroom": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Empty Classroom by tvilgiat",
+      "source_url": "https://freesound.org/s/472657/"
+    },
+    "freesound_subway_car": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "200/300Hz 81-717 BPSN hum sound by chungus43A",
+      "source_url": "https://freesound.org/s/733740/"
+    },
+    "freesound_airplane": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Airplane engine.wav by pdkmusic",
+      "source_url": "https://freesound.org/s/584003/"
+    },
+    "freesound_frog": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Frogs croaking.wav by Kamix0",
+      "source_url": "https://freesound.org/s/391520/"
+    },
+    "freesound_whale": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Baleines.wav by davidou",
+      "source_url": "https://freesound.org/s/88449/"
+    },
+    "freesound_market": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cash small market.wav by 13F_Panská_Kettner_Filip",
+      "source_url": "https://freesound.org/s/378809/"
+    },
+    "freesound_ambulance": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "European Police siren 1 by chungus43A",
+      "source_url": "https://freesound.org/s/819894/"
+    },
+    "freesound_cat_purr": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cat purring and meow by skymary",
+      "source_url": "https://freesound.org/s/412016/"
+    },
+    "freesound_wind": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Wind1.mp3 by vandale",
+      "source_url": "https://freesound.org/s/379464/"
+    },
+    "freesound_wind_howl": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "wind16.m4a by tonik-95",
+      "source_url": "https://freesound.org/s/420297/"
+    },
+    "freesound_rain": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Heavy Rain Short by presidentevil4zombie",
+      "source_url": "https://freesound.org/s/241195/"
+    },
+    "freesound_rain_heavy": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Rain (Field Recording) by Opticreep",
+      "source_url": "https://freesound.org/s/320520/"
+    },
+    "freesound_thunder": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "thunder1.wav by nednednerb",
+      "source_url": "https://freesound.org/s/38244/"
+    },
+    "freesound_bear": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Bear Angry Growl by celldroid",
+      "source_url": "https://freesound.org/s/763026/"
+    },
+    "freesound_elephant": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Angry Elephant.aiff by Danjocross",
+      "source_url": "https://freesound.org/s/507467/"
+    },
+    "freesound_tiger": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Tigre.wav by IanLyanx",
+      "source_url": "https://freesound.org/s/446792/"
+    },
+    "freesound_car": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Car Ignition Key - Engine Starting Running Idle 2.wav by RutgerMuller",
+      "source_url": "https://freesound.org/s/50898/"
+    },
+    "freesound_motorcycle": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "motorcycle engine by Natha_mf.",
+      "source_url": "https://freesound.org/s/560387/"
+    },
+    "freesound_police_car": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Ambulance siren by sofialomba",
+      "source_url": "https://freesound.org/s/469412/"
+    },
+    "freesound_race_car": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Car racing past 3 by EwanPenman11",
+      "source_url": "https://freesound.org/s/659551/"
+    },
+    "freesound_garbage_truck": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Garbage Disposal by thebiffy",
+      "source_url": "https://freesound.org/s/636564/"
+    },
+    "freesound_excavator": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "20131119_Hammering at the buliding site _ZoomH6XY.wav  by Soundscape_Leuphana",
+      "source_url": "https://freesound.org/s/210048/"
+    },
+    "freesound_cat": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "meowing_long.wav by 15FPanskaDavid_Matous",
+      "source_url": "https://freesound.org/s/461823/"
+    },
+    "freesound_cat_meow": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "meow8.wav by freemaster2",
+      "source_url": "https://freesound.org/s/66517/"
+    },
+    "freesound_dog_big": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Small Dog Barking by michorvath",
+      "source_url": "https://freesound.org/s/270586/"
+    },
+    "freesound_monkey": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Howler Monkeys - short clip.wav by sethlind",
+      "source_url": "https://freesound.org/s/332724/"
+    },
+    "freesound_alarm_clock": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "AlarmClock.wav by amorralteixe",
+      "source_url": "https://freesound.org/s/238390/"
+    },
+    "freesound_doorbell": {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "Doorbell by Squidems",
+      "source_url": "https://freesound.org/s/709948/"
+    },
+    "cc_by_rainy_night": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://freesound.org/s/580446/",
+      "attribution": "Thunderclap_5(Eq,MS,dns).wav by newlocknew (Freesound) — used unchanged under CC BY 4.0"
+    }
+  }
+}
