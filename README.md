@@ -1,5 +1,9 @@
 # Soundlings
 
+English | [简体中文](README.zh.md)
+
+> 365 Open Source Plan #009 · An offline, zero-tracking sound board for kids 3–10
+
 A 100% offline, zero-tracking sound board for kids 3–10.
 **React 19 + Ant Design 6 + Vite + TypeScript**.
 Warm orange palette, large rounded controls, kid-first ergonomics.
@@ -151,3 +155,9 @@ branch.
 ## Contributing
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+## About the 365 Open Source Plan
+
+This is project #009 of the [365 Open Source Plan](https://github.com/rockbenben/365opensource).
+
+One person + AI, 300+ open source projects in a year. [Submit your request →](https://my.feishu.cn/share/base/form/shrcnI6y7rrmlSjbzkYXh6sjmzb)
